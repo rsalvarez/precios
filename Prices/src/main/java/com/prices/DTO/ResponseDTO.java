@@ -15,6 +15,7 @@ public class ResponseDTO {
     private Long priceListId;
     private LocalDateTime startDate;
     private LocalDateTime endDate;
+    private Integer priority;
     private Double price;
     private Curr curr;
 

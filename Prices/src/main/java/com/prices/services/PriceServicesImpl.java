@@ -38,6 +38,7 @@ public class PriceServicesImpl implements PriceService {
             response.setBrandId(priceDTO.getBrand().getId());
             response.setProductId(priceDTO.getProduct().getId());
             response.setStartDate(priceDTO.getStartDate());
+            response.setPriority(priceDTO.getPriority());
             response.setEndDate(priceDTO.getEndDate());
             return Optional.of(response);
         }

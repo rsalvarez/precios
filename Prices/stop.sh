@@ -1,2 +1,2 @@
-docker stop superhero
+docker stop prices
 
