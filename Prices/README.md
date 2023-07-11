@@ -1,6 +1,6 @@
 Java 11 examples
 This repository contains various simple java 11 examples.
-First run ./init.sh (http://localhost:8080/swagger-ui/index.html#/)
+First run ./init.sh (Please see : http://localhost:8080/swagger-ui/index.html#/)
 
 Environment setup
 Make sure following software is installed on your PC.
